@@ -17,7 +17,7 @@ Pair Time Projects
   
    ## Project #01 - Simple Bot that send message.
    * Programming language - Python
-      * Simple Bot
+      * [Simple bot](https://github.com/Suspir0n/Pair-Time-Programming-Bot)
       * API
       * Front
       * [URL for see deploying]()
