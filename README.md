@@ -25,13 +25,18 @@ Pair Time Projects
          * [Evandro Silva](https://www.linkedin.com/in/suspir0n//)
             * [GitFlow - From a different point of view](https://dev.to/suspir0n/gitflow-de-um-ponto-de-vista-diferente-1cn4)
             * [The secret of simple Python documentation.](https://dev.to/suspir0n/o-segredo-de-uma-documentacao-simples-em-python-4ik9)
+            * [How is teach python for other peoples](https://dev.to/suspir0n/como-e-ensinar-python-para-outras-pessoas-3cl1)
+            * <!--[What is SRP ? where this name from ?]()-->
          * [Ismael Carvalho](https://www.linkedin.com/in/ismael-carvalhoads/)
-            * [how was it doing 100 Days of Code with Golang?](https://dev.to/figur8/como-foi-fazer-o-100-days-of-code-com-golang-2jf9)
             * [Pair Time! Help my friends helps me to keep motivated](https://dev.to/figur8/pair-time-help-my-friends-helps-me-to-keep-motivated-37bp)
+            * [KISS - Keep It Simple, Stupid](https://dev.to/figur8/kiss-keep-it-simple-stupid-56ef)
          * [Ana Luisa](https://www.linkedin.com/in/ana-luisa-/)
             * [What is Git and Github ?](https://ei-dev.pingback.com/p/o-que-e-git-e-github-saiba-a-diferenca-e-a-importancia-para-a-sua-carreira)  
          * [Julio Braga](https://www.linkedin.com/in/julio-braga-7bb0761a3/) 
-            * [What is Scrum ?](https://dev.to/julio_braga/o-que-e-scrum-p5j)    
+            * [What is Scrum ?](https://dev.to/julio_braga/o-que-e-scrum-p5j)  
+            * [What is Gitflow ?](https://dev.to/julio_braga/o-que-e-gitflow-2j0e)    
+         * [Marilene Dias](https://www.linkedin.com/in/marilene-dias-49bb7a8b/) 
+            <!--* [What is Markdown ?]()-->  
    </details>
 
 
