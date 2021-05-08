@@ -26,7 +26,7 @@ Pair Time Projects
             * [GitFlow - From a different point of view](https://dev.to/suspir0n/gitflow-de-um-ponto-de-vista-diferente-1cn4)
             * [The secret of simple Python documentation.](https://dev.to/suspir0n/o-segredo-de-uma-documentacao-simples-em-python-4ik9)
             * [How is teach python for other peoples](https://dev.to/suspir0n/como-e-ensinar-python-para-outras-pessoas-3cl1)
-            * <!--[What is SRP ? where this name from ?]()-->
+            * [What is SRP ? where this name from ?](https://dev.to/suspir0n/o-que-e-srp-de-onde-vem-este-nome-5b68)
          * [Ismael Carvalho](https://www.linkedin.com/in/ismael-carvalhoads/)
             * [Pair Time! Help my friends helps me to keep motivated](https://dev.to/figur8/pair-time-help-my-friends-helps-me-to-keep-motivated-37bp)
             * [KISS - Keep It Simple, Stupid](https://dev.to/figur8/kiss-keep-it-simple-stupid-56ef)
